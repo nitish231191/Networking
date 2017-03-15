@@ -1,0 +1,94 @@
+﻿Build started 2/22/2017 9:30:45 AM.
+     1>Project "C:\Users\Nitish\documents\visual studio 2015\Projects\hw-1\hw-1\hw-1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /ZI /nologo /W3 /WX- /sdl- /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"x64\Debug\hw-1.pch" /Fo"x64\Debug\\" /Fd"x64\Debug\vc140.pdb" /Gd /TP /errorReport:prompt "hw-1.cpp"
+         hw-1.cpp
+     1>c:\users\nitish\documents\visual studio 2015\projects\hw-1\hw-1\socket.h(83): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+     1>c:\users\nitish\documents\visual studio 2015\projects\hw-1\hw-1\socket.h(56): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+     1>c:\users\nitish\documents\visual studio 2015\projects\hw-1\hw-1\socket.h(57): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+     1>c:\users\nitish\documents\visual studio 2015\projects\hw-1\hw-1\socket.h(58): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(90): note: see declaration of 'strcat'
+     1>c:\users\nitish\documents\visual studio 2015\projects\hw-1\hw-1\socket.h(59): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+     1>c:\users\nitish\documents\visual studio 2015\projects\hw-1\hw-1\socket.h(60): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(90): note: see declaration of 'strcat'
+     1>c:\users\nitish\documents\visual studio 2015\projects\hw-1\hw-1\socket.h(61): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(90): note: see declaration of 'strcat'
+     1>c:\users\nitish\documents\visual studio 2015\projects\hw-1\hw-1\socket.h(62): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(90): note: see declaration of 'strcat'
+     1>c:\users\nitish\documents\visual studio 2015\projects\hw-1\hw-1\socket.h(63): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(90): note: see declaration of 'strcat'
+     1>c:\users\nitish\documents\visual studio 2015\projects\hw-1\hw-1\socket.h(64): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(90): note: see declaration of 'strcat'
+     1>c:\users\nitish\documents\visual studio 2015\projects\hw-1\hw-1\socket.h(69): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+     1>c:\users\nitish\documents\visual studio 2015\projects\hw-1\hw-1\socket.h(70): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+     1>c:\users\nitish\documents\visual studio 2015\projects\hw-1\hw-1\socket.h(71): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(90): note: see declaration of 'strcat'
+     1>c:\users\nitish\documents\visual studio 2015\projects\hw-1\hw-1\socket.h(72): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+     1>c:\users\nitish\documents\visual studio 2015\projects\hw-1\hw-1\socket.h(73): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(90): note: see declaration of 'strcat'
+     1>c:\users\nitish\documents\visual studio 2015\projects\hw-1\hw-1\socket.h(74): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(90): note: see declaration of 'strcat'
+     1>c:\users\nitish\documents\visual studio 2015\projects\hw-1\hw-1\socket.h(75): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(90): note: see declaration of 'strcat'
+     1>c:\users\nitish\documents\visual studio 2015\projects\hw-1\hw-1\socket.h(76): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(90): note: see declaration of 'strcat'
+     1>c:\users\nitish\documents\visual studio 2015\projects\hw-1\hw-1\socket.h(77): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(90): note: see declaration of 'strcat'
+     1>c:\users\nitish\documents\visual studio 2015\projects\hw-1\hw-1\socket.h(78): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(90): note: see declaration of 'strcat'
+     1>c:\users\nitish\documents\visual studio 2015\projects\hw-1\hw-1\socket.h(79): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(90): note: see declaration of 'strcat'
+     1>c:\users\nitish\documents\visual studio 2015\projects\hw-1\hw-1\socket.h(180): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(90): note: see declaration of 'strcat'
+     1>c:\users\nitish\documents\visual studio 2015\projects\hw-1\hw-1\socket.h(228): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+         c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1850): note: see declaration of 'inet_addr'
+     1>c:\users\nitish\documents\visual studio 2015\projects\hw-1\hw-1\socket.h(232): warning C4996: 'gethostbyname': Use getaddrinfo() or GetAddrInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+         c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(2238): note: see declaration of 'gethostbyname'
+     1>c:\users\nitish\documents\visual studio 2015\projects\hw-1\hw-1\socket.h(327): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+     1>c:\users\nitish\documents\visual studio 2015\projects\hw-1\hw-1\socket.h(335): warning C4244: '=': conversion from 'SOCKET' to 'int', possible loss of data
+     1>c:\users\nitish\documents\visual studio 2015\projects\hw-1\hw-1\socket.h(340): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+     1>c:\users\nitish\documents\visual studio 2015\projects\hw-1\hw-1\socket.h(357): warning C4244: '=': conversion from 'SOCKET' to 'int', possible loss of data
+     1>c:\users\nitish\documents\visual studio 2015\projects\hw-1\hw-1\socket.h(362): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+     1>c:\users\nitish\documents\visual studio 2015\projects\hw-1\hw-1\socket.h(286): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+         c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1850): note: see declaration of 'inet_addr'
+     1>c:\users\nitish\documents\visual studio 2015\projects\hw-1\hw-1\socket.h(271): warning C4101: 'servinfo': unreferenced local variable
+     1>c:\users\nitish\documents\visual studio 2015\projects\hw-1\hw-1\socket.h(265): warning C4101: 'tv': unreferenced local variable
+     1>c:\users\nitish\documents\visual studio 2015\projects\hw-1\hw-1\socket.h(276): warning C4101: 'remote': unreferenced local variable
+     1>c:\users\nitish\documents\visual studio 2015\projects\hw-1\hw-1\socket.h(272): warning C4101: 'ser': unreferenced local variable
+     1>c:\users\nitish\documents\visual studio 2015\projects\hw-1\hw-1\socket.h(303): warning C4101: 'ipver': unreferenced local variable
+     1>c:\users\nitish\documents\visual studio 2015\projects\hw-1\hw-1\hw-1.cpp(119): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'std::streamoff'
+         c:\users\nitish\documents\visual studio 2015\projects\hw-1\hw-1\hw-1.cpp(119): note: consider using '%lld' in the format string
+         c:\users\nitish\documents\visual studio 2015\projects\hw-1\hw-1\hw-1.cpp(119): note: consider using '%Id' in the format string
+         c:\users\nitish\documents\visual studio 2015\projects\hw-1\hw-1\hw-1.cpp(119): note: consider using '%I64d' in the format string
+     1>c:\users\nitish\documents\visual studio 2015\projects\hw-1\hw-1\hw-1.cpp(147): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+     1>c:\users\nitish\documents\visual studio 2015\projects\hw-1\hw-1\hw-1.cpp(162): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(90): note: see declaration of 'strcat'
+     1>c:\users\nitish\documents\visual studio 2015\projects\hw-1\hw-1\hw-1.cpp(164): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(90): note: see declaration of 'strcat'
+     1>c:\users\nitish\documents\visual studio 2015\projects\hw-1\hw-1\hw-1.cpp(167): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(90): note: see declaration of 'strcat'
+     1>c:\users\nitish\documents\visual studio 2015\projects\hw-1\hw-1\hw-1.cpp(187): warning C4477: 'printf' : format string '%6d' requires an argument of type 'int', but variadic argument 3 has type 'unsigned __int64'
+         c:\users\nitish\documents\visual studio 2015\projects\hw-1\hw-1\hw-1.cpp(187): note: consider using '%zd' in the format string
+     1>c:\users\nitish\documents\visual studio 2015\projects\hw-1\hw-1\hw-1.cpp(187): warning C4477: 'printf' : format string '%7d' requires an argument of type 'int', but variadic argument 4 has type 'unsigned __int64'
+         c:\users\nitish\documents\visual studio 2015\projects\hw-1\hw-1\hw-1.cpp(187): note: consider using '%zd' in the format string
+     1>c:\users\nitish\documents\visual studio 2015\projects\hw-1\hw-1\socket.h(311): warning C4700: uninitialized local variable 'ipv6' used
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Nitish\documents\visual studio 2015\Projects\hw-1\x64\Debug\hw-1.exe" /INCREMENTAL /NOLOGO ws2_32.lib winmm.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Nitish\documents\visual studio 2015\Projects\hw-1\x64\Debug\hw-1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Nitish\documents\visual studio 2015\Projects\hw-1\x64\Debug\hw-1.lib" /MACHINE:X64 "x64\Debug\hw-1.obj"
+         x64\Debug\stdafx.obj
+     1>HTMLParser_debug_x64.lib(HTMLParserBase.obj) : warning LNK4099: PDB 'HTMLParser.pdb' was not found with 'HTMLParser_debug_x64.lib(HTMLParserBase.obj)' or at 'C:\Users\Nitish\documents\visual studio 2015\Projects\hw-1\x64\Debug\HTMLParser.pdb'; linking object as if no debug info
+     1>HTMLParser_debug_x64.lib(IRLBuffer.obj) : warning LNK4099: PDB 'HTMLParser.pdb' was not found with 'HTMLParser_debug_x64.lib(IRLBuffer.obj)' or at 'C:\Users\Nitish\documents\visual studio 2015\Projects\hw-1\x64\Debug\HTMLParser.pdb'; linking object as if no debug info
+     1>HTMLParser_debug_x64.lib(IRLparser.obj) : warning LNK4099: PDB 'HTMLParser.pdb' was not found with 'HTMLParser_debug_x64.lib(IRLparser.obj)' or at 'C:\Users\Nitish\documents\visual studio 2015\Projects\hw-1\x64\Debug\HTMLParser.pdb'; linking object as if no debug info
+     1>HTMLParser_debug_x64.lib(stdafx.obj) : warning LNK4099: PDB 'HTMLParser.pdb' was not found with 'HTMLParser_debug_x64.lib(stdafx.obj)' or at 'C:\Users\Nitish\documents\visual studio 2015\Projects\hw-1\x64\Debug\HTMLParser.pdb'; linking object as if no debug info
+     1>HTMLParser_debug_x64.lib(URL.obj) : warning LNK4099: PDB 'HTMLParser.pdb' was not found with 'HTMLParser_debug_x64.lib(URL.obj)' or at 'C:\Users\Nitish\documents\visual studio 2015\Projects\hw-1\x64\Debug\HTMLParser.pdb'; linking object as if no debug info
+         hw-1.vcxproj -> C:\Users\Nitish\documents\visual studio 2015\Projects\hw-1\x64\Debug\hw-1.exe
+     1>Done Building Project "C:\Users\Nitish\documents\visual studio 2015\Projects\hw-1\hw-1\hw-1.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.06
