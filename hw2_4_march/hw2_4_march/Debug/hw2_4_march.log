@@ -1,0 +1,3 @@
+﻿hw2_4_march.obj : error LNK2019: unresolved external symbol _htons@4 referenced in function "public: void __thiscall DNS::preprocess(char *,char *)" (?preprocess@DNS@@QAEXPAD0@Z)
+hw2_4_march.obj : error LNK2019: unresolved external symbol _inet_addr@4 referenced in function "public: void __thiscall DNS::preprocess(char *,char *)" (?preprocess@DNS@@QAEXPAD0@Z)
+C:\Users\Nitish\Documents\Visual Studio 2015\Projects\hw2_4_march\Debug\hw2_4_march.exe : fatal error LNK1120: 2 unresolved externals

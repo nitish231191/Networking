@@ -1,0 +1,12 @@
+﻿  hw2_4_march.cpp
+c:\users\nitish\documents\visual studio 2015\projects\hw2_4_march\hw2_4_march\dns.h(29): warning C4083: expected ')'; found identifier 'C4996'
+c:\users\nitish\documents\visual studio 2015\projects\hw2_4_march\hw2_4_march\dns.h(146): warning C4267: '=': conversion from 'size_t' to 'char', possible loss of data
+c:\users\nitish\documents\visual studio 2015\projects\hw2_4_march\hw2_4_march\dns.h(179): warning C4267: '=': conversion from 'size_t' to 'char', possible loss of data
+c:\users\nitish\documents\visual studio 2015\projects\hw2_4_march\hw2_4_march\dns.h(207): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\nitish\documents\visual studio 2015\projects\hw2_4_march\hw2_4_march\dns.h(213): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\nitish\documents\visual studio 2015\projects\hw2_4_march\hw2_4_march\dns.h(271): warning C4838: conversion from 'int' to 'unsigned char' requires a narrowing conversion
+c:\users\nitish\documents\visual studio 2015\projects\hw2_4_march\hw2_4_march\dns.h(336): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+c:\users\nitish\documents\visual studio 2015\projects\hw2_4_march\hw2_4_march\dns.h(353): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\nitish\documents\visual studio 2015\projects\hw2_4_march\hw2_4_march\dns.h(362): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  hw2_4_march.vcxproj -> C:\Users\Nitish\documents\visual studio 2015\Projects\hw2_4_march\x64\Debug\hw2_4_march.exe
+  hw2_4_march.vcxproj -> C:\Users\Nitish\documents\visual studio 2015\Projects\hw2_4_march\x64\Debug\hw2_4_march.pdb (Full PDB)
